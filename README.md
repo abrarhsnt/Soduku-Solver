@@ -1,0 +1,1 @@
+This project implements a Sudoku solver following the MVC design pattern, separating the application into three components:  Model: Handles the Sudoku grid, game logic, and the solving algorithm.  View: Provides a simple interface to display the board and results.  Controller: Manages interactions between the model and the view, processing user inp
